@@ -1,0 +1,11 @@
+name = "wxapp-api"
+main = "src/index.js"
+compatibility_date = "2024-01-01"
+
+kv_namespaces = [
+  { binding = "USER_DB", id = "a3198273da564d6f84899ca5580d44fc" }
+]
+
+[vars]
+WX_APPID = "wxcd2d8b3a43940389"
+WX_SECRET = "ad460b7314d43f2efc4254132454b794 " 
